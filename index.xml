@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Numpy Overload</title>
+    <link>https://aashishpiitk.github.io/</link>
+    <description>Recent content on Numpy Overload</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aashishpiitk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring ML</title>
+      <link>https://aashishpiitk.github.io/post/first-post/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aashishpiitk.github.io/post/first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Happy Birthday to BM</title>
+      <link>https://aashishpiitk.github.io/zone/3/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aashishpiitk.github.io/zone/3/</guid>
+      <description>A scholarship A letter from my email says that I have got a scholarship.</description>
+    </item>
+    
+    <item>
+      <title>Happy Birthday to BM</title>
+      <link>https://aashishpiitk.github.io/zone/1/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aashishpiitk.github.io/zone/1/</guid>
+      <description>Happy Birthday to BM! Happy Birthday to you, Be happy and healthy!</description>
+    </item>
+    
+    <item>
+      <title>I got my first salary</title>
+      <link>https://aashishpiitk.github.io/zone/2/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aashishpiitk.github.io/zone/2/</guid>
+      <description>I got my first salary In this semester, I am a TA for C Language Programming. Today I got my first salary in my life. I felt proud of myself.</description>
+    </item>
+    
+    <item>
+      <title>A gallery</title>
+      <link>https://aashishpiitk.github.io/gallery/a/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aashishpiitk.github.io/gallery/a/</guid>
+      <description>  /img/index.png     /img/list.png     /img/single.png     /img/zone.png     /img/about.png   </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://aashishpiitk.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://aashishpiitk.github.io/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+ https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
